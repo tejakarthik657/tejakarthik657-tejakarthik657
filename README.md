@@ -123,15 +123,12 @@ GPS-based live tracking (Node.js backend + Firebase).
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Languages I Use the Most
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejakarthik657&theme=dark"/>
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['TypeScript','Python','Java','JavaScript'],datasets:[{data:[40,30,20,10]}]}}">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejakarthik657&layout=compact&theme=dark"/>
-</p>
 
 ---
 
